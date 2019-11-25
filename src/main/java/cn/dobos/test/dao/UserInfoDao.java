@@ -12,4 +12,6 @@ public interface UserInfoDao {
 
     hhhh();
 
+    hhh();
+
 }
