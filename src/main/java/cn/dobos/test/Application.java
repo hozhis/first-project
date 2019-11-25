@@ -7,7 +7,7 @@ public class Application {
 
     }
 
-    public void testMethod() {
+    public void test() {
         System.out.println("test method");
     }
 
