@@ -10,6 +10,10 @@ public interface UserInfoDao {
 
     Object findAll();
 
-    void hhhh(String a);
+    /**
+     * hhhh
+     * @param world
+     */
+    void hhhh(String world);
 
 }
