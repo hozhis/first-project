@@ -10,8 +10,6 @@ public interface UserInfoDao {
 
     Object findAll();
 
-    hhhh();
-
-    hhh();
+    void hhhh();
 
 }
