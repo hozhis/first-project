@@ -12,8 +12,11 @@ public interface UserInfoDao {
 
     /**
      * hhhh
+     *
      * @param world
      */
     void hhhh(String world);
+
+    void test();
 
 }
