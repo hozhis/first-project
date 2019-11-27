@@ -19,4 +19,7 @@ public interface UserInfoDao {
 
     void test();
 
+
+    hhhh;
+
 }
