@@ -17,8 +17,10 @@ public interface UserInfoDao {
      */
     void hhhh(String world);
 
-    void test();
-
+    /**
+     * 增加了pmd
+     */
+    void Test();
 
     void helloWorld();
 
