@@ -20,6 +20,6 @@ public interface UserInfoDao {
     void test();
 
 
-    void hhhh();
+    void helloWorld();
 
 }
