@@ -24,6 +24,6 @@ public interface UserInfoDao {
 
     void helloWorld();
 
-    hhhh();
+    hhhhhhh;
 
 }
