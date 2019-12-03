@@ -28,4 +28,6 @@ public interface UserInfoDao {
 
     hghhh();
 
+    void hhhhhhhhhh(String a);
+
 }
