@@ -12,6 +12,7 @@ import java.util.*;
  * Created on 2019-11-29
  */
 public class Test {
+	private static final Integer i = 0;
 
 
     public static void main(String[] args) {
