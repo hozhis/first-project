@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "197e44b0_ea8057df",
+        "filename": "src/main/java/cn/dobos/test/Test.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2019-12-11T09:28:11Z",
+      "side": 1,
+      "message": "should static and final",
+      "revId": "cad77b1877c4d8282d8b71d5acc71c76ffe361ec",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": true
+    }
+  ]
+}
