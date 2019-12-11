@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "88454ba4_6be65602",
+        "filename": "src/main/java/cn/dobos/test/Test.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2019-12-11T09:18:56Z",
+      "side": 1,
+      "message": "使用包装类型",
+      "range": {
+        "startLine": 15,
+        "startChar": 9,
+        "endLine": 15,
+        "endChar": 12
+      },
+      "revId": "4a189488c5e7b61bf5910e29f3ab0a3d437a2463",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": true
+    }
+  ]
+}
