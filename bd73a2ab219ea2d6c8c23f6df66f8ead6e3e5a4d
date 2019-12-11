@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1ec3cc44_99b53709",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1000003
+      },
+      "writtenOn": "2019-12-11T03:27:43Z",
+      "side": 1,
+      "message": "这里为什么是void",
+      "revId": "bd73a2ab219ea2d6c8c23f6df66f8ead6e3e5a4d",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": true
+    }
+  ]
+}
