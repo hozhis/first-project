@@ -12,6 +12,7 @@ import java.util.*;
  * Created on 2019-11-29
  */
 public class Test {
+	private static final Integer i = 0;
 
 
     public static void main(String[] args) {
@@ -54,5 +55,6 @@ public class Test {
                     + map.get("营业执照"));
         }
     }
+	private int m = 0;
 
 }
