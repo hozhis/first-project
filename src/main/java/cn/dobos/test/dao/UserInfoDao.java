@@ -26,6 +26,6 @@ public interface UserInfoDao {
 
     void wxsas();
 
-    void hghhh();
+    String hgh();
 
 }
