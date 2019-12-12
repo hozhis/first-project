@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0e33bbff_07772c93",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MINOR SonarQube violation:\n\n\nPublic method and constructor comments are required\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3ACommentRequired",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "d668f4fa_06acfd47",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 23,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MAJOR SonarQube violation:\n\n\nThe instance method name \u0027Test\u0027 doesn\u0027t match \u0027[a-z][a-zA-Z0-9]*\u0027\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3AMethodNamingConventions",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "e9316d14_2dca97b2",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MINOR SonarQube violation:\n\n\nPublic method and constructor comments are required\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3ACommentRequired",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5c491c13_24800b46",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MINOR SonarQube violation:\n\n\nPublic method and constructor comments are required\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3ACommentRequired",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "dcfa40b1_8aa16ce6",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MINOR SonarQube violation:\n\n\nPublic method and constructor comments are required\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3ACommentRequired",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "c6d0bef8_f49441e1",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MAJOR SonarQube violation:\n\n\nAvoid variables with short names like a\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3AShortVariable",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "81aece33_942d6837",
+        "filename": "src/main/java/cn/dobos/test/dao/UserInfoDao.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-12-12T03:03:50Z",
+      "side": 1,
+      "message": "MINOR SonarQube violation:\n\n\nPublic method and constructor comments are required\n\n\nRead more: http://sonar.dobos.cn/coding_rules#rule_key\u003dpmd%3ACommentRequired",
+      "revId": "a38dc0d0d840b8b633f0d34e2abfacc0b59a3d5e",
+      "serverId": "03f3e529-0c69-4dcf-9d6f-9b2c55661be4",
+      "unresolved": false
+    }
+  ]
+}
